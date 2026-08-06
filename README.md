@@ -1,3 +1,5 @@
-To add Riftbound to TCG Arena click the following link:
+To use the Multiplayer-Test-Version from this Fork while it is under review, use the following link to add "Riftbound Beta" to TCG-Arena (otherwise simply wait for the official update):
 
-https://tcg-arena.fr/load/aHR0cHMlM0ElMkYlMkZydXNzZXVzLmdpdGh1Yi5pbyUyRlJCLVRDRy1BcmVuYSUyRlJpZnRib3VuZC1HYW1lLmpzb24=
+
+
+Note: Starter Decks are not available and you will have to re-import a deck due to the different game name.
